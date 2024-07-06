@@ -1,4 +1,4 @@
-function updateBirthdayCountdown() {
+// function updateBirthdayCountdown() {
     // Set the birthday date in IST (YYYY-MM-DD)
     let birthdayDate = new Date("2024-07-07T00:00:00+05:30");
     let now = new Date();
