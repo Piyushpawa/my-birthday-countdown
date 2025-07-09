@@ -1,6 +1,6 @@
 // Function to update birthday countdown
 function updateBirthdayCountdown() {
-    let birthdayDate = new Date("2025-07-07"); // Replace with your birthday date (YYYY-MM-DD)
+    let birthdayDate = new Date("2026-07-07"); // Replace with your birthday date (YYYY-MM-DD)
     let now = new Date().getTime();
     let remainingTime = birthdayDate - now;
   
